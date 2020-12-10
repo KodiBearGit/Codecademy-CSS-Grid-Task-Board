@@ -41,7 +41,10 @@ body {
 }
 
 .container {
-	width: 1000px;
+  width: 1000px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 20px;
 }
 
 .search-bar {

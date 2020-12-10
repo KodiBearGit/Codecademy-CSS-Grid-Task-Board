@@ -36,7 +36,7 @@ List of features
 
 ## Status
 
-Project is: completed
+Project is: in progress
 
 ## Inspiration
 
