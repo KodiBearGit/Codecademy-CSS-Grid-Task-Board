@@ -84,7 +84,10 @@ input {
 .card-column {
 	background-color: #ffffff;
 	grid-gap: 10px;
-	min-height: 700px;
+  min-height: 700px;
+  display: grid;
+  grid-template-rows: 20px repeat(5, 100px);
+  align-content: space-between;
 }
 
 .card-column h2 {
